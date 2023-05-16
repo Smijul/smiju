@@ -1,1 +1,1 @@
-print("smijul")
+print(" hai smijul ")
